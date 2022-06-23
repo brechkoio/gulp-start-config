@@ -1,0 +1,25 @@
+{
+  "name": "gulp-start-config",
+  "version": "1.0.0",
+  "description": "gulp-2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brechkoio/gulp-start-config.git"
+  },
+  "keywords": [
+    "gulp-2022"
+  ],
+  "author": "Yurri Brechko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brechkoio/gulp-start-config/issues"
+  },
+  "homepage": "https://github.com/brechkoio/gulp-start-config#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
