@@ -14,7 +14,7 @@ export const path = {
         files: `${srcFolder}/files/**/*.*`,
     },
     watch: {
-        files: `${srcFolder}/**/*.html`,
+        html: `${srcFolder}/**/*.html`,
         files: `${srcFolder}/files/**/*.*`
     },
     clean: buildFolder,
